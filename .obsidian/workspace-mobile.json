@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "14471db280dded2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2783dbfc1f854aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61fb5ec3e663af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071bd496943f575e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b93b157e85afd390",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "34c21b7c052fb30d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9501cb0f015b19bd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b5b22a3121cd5cd0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fb011c133704c450",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2e1b358aa3abca55",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "22c4e84bb0d6cd01",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7cffe211b7329e37",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b93b157e85afd390",
+  "lastOpenFiles": []
+}

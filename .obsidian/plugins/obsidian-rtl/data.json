@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "Лекции/Нуман Али Хан/Народ Мусы, мир ему, в осаде.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": false,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

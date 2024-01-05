@@ -1,0 +1,13 @@
+@font-face
+{
+    font-family: 'Uthmanic';
+    src: url('KFGQPC Uthmanic Script HAFS Regular.otf') format('truetype');
+}
+
+.quran-arabic {
+    font-family: "Uthmanic";
+    font-size: 2rem;
+    float: right;
+    text-align: right;
+    direction: rtl;
+}

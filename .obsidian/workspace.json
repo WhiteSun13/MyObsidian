@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "32f550a35a1481b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d730eccd9499def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dc0b955f5cf2109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af3345ead0963696",
+    "type": "split",
+    "children": [
+      {
+        "id": "798bf635423ce136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c505244ee824c04f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b51fb2c717329241",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5daf42c33603f2c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.50418853759766
+  },
+  "right": {
+    "id": "7747cff78c2eda6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e188276e99f765e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4408e3debc088628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51c50c619d41064e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "821c2937d12a0d77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8baa5dcebc7c368d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9dc0b955f5cf2109",
+  "lastOpenFiles": [
+    "Новая папка",
+    "Шаблоны/Github ссылка.md",
+    "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md",
+    "Шаблоны/Лекция шаблон.md",
+    "Шаблоны/Хутба шаблон.md",
+    "Ana tili.md",
+    "Шаблоны/Test.md",
+    "Лекции/Фикх Месфер оджа/Очищение.md",
+    "Лекции/Медресе/История Ислама в Крыму",
+    "Лекции/Медресе",
+    "Лекции/Омовение (Медресе).md",
+    "Лекции/Нет заступничества 5 типам людей.md",
+    "Лекции/Вопросы связанные с неверием.md",
+    "Лекции/Виды грехов и покаяние.md",
+    "Лекции/Фикх Месфер оджа/Фа'али мукелифин.md",
+    "Лекции/Фикх Месфер оджа/Пути очищения.md",
+    "Лекции/Фикх Месфер оджа/Сунна.md",
+    "Лекции/Фикх Месфер оджа/Омовение.md",
+    "Лекции/Фикх Месфер оджа/Истимджа истибра истинка.md",
+    "Лекции/Нуман Али Хан/Ислам vs психология.md",
+    "Лекции/Фикх Месфер оджа",
+    "Книги/Сира Мухаммада ﷺ. Сафи ар-Рахман аль-Мубаракфури.md",
+    "Книги/10 преград между рабом и Аллахом.md",
+    "Книги/Ислам в истории и культуре Крыма/Зарождение и начальный этап распространения ислама.md",
+    "Книги/Ислам в истории и культуре Крыма/ИСЛАМ В ИСТОРИИ И КУЛЬТУРЕ КРЫМА.md",
+    "Qırımtatar tilini oğreniñiz.md",
+    "Quran/9 - At-Tawbah/q - 9 - 78.md",
+    "Quran/91 - Ash-Shams/q - 91 - 6.md",
+    "Quran/93 - Ad-Duhaa/q - 93 - 6.md",
+    "Quran/99 - Az-Zalzalah",
+    "Quran/98 - Al-Bayyinah",
+    "Quran/97 - Al-Qadr",
+    "Quran/96 - Al-'Alaq",
+    "Quran/95 - At-Tin",
+    "Quran/94 - Ash-Sharh",
+    "Quran/93 - Ad-Duhaa",
+    "Пророки.canvas",
+    "Logo_Ma-3 (2).svg",
+    "Pasted image 20231221105627.png",
+    "Без названия.canvas"
+  ]
+}

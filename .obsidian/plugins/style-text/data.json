@@ -1,0 +1,24 @@
+{
+  "styles": [
+    {
+      "name": "quran-arabic",
+      "css": "font-family: Uthmanic; font-size: 2rem;",
+      "contextMenu": true
+    },
+    {
+      "name": "Center text",
+      "css": "text-align: center;",
+      "contextMenu": false
+    },
+    {
+      "name": "Large",
+      "css": "font-size: 20px",
+      "contextMenu": false
+    },
+    {
+      "name": "Green Highlight",
+      "css": "background-color: #1EFF00; color: black",
+      "contextMenu": false
+    }
+  ]
+}
