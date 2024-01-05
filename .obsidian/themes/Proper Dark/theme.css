@@ -5,8 +5,8 @@ body {
 
 .theme-dark {
     /*--background-primary: #0d1117;*/
-    --background-primary: #161a1d;
-    --background-secondary: #0b0d0f;
+    --background-primary: #0d1117;
+    --background-secondary: #010409;
     --divider-color: #30363d;
     --ribbon-background: #000000;
     --titlebar-background: var(--background-secondary);
@@ -16,8 +16,8 @@ body {
 
     --background-modifier-hover: rgba(var(--mono-rgb-100), 0.09);
 
-    --inline-title-weight: normal;
-    --inline-title-size: 3em;
+    /* --inline-title-weight: normal; */
+    /* --inline-title-size: 3em; */
 }
 
 .search-result:not(.is-collapsed) .search-result-file-title {
@@ -49,9 +49,9 @@ body {
 .cMenuToolbarCommandItem, .cMenuToolbarCommandsubItem12, .cMenuToolbarSecond {
     width: 26px;
 }
-.cm-sizer {
+/* .cm-sizer {
     margin-top: 40px;
-}
+} */
 #cMenuToolbarModalBar {
     top: 40px !important;
     position: fixed !important;

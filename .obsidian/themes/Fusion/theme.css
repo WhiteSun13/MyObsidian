@@ -68,8 +68,8 @@ settings:
   --color-base-40: #505664;
   --color-base-50: #626879;
   --color-base-60: #737a8d;
-  --color-base-70: #848ca1;
-  --color-base-100: #b9c3de;
+  --color-base-70: #b9c3de;
+  --color-base-100: #ffffff;
 
   --text-on-accent: black;
   --background-modifier-form-field: var(--background-primary-alt);
