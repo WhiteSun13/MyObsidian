@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/Фикх Месфер оджа/Омовение.md",
+                "file": "Лекции/Нуман Али Хан/Народ Мусы, мир ему, в осаде.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Лекции/Фикх Месфер оджа/Омовение.md",
+            "file": "Лекции/Нуман Али Хан/Народ Мусы, мир ему, в осаде.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Лекции/Фикх Месфер оджа/Омовение.md",
+            "file": "Лекции/Нуман Али Хан/Народ Мусы, мир ему, в осаде.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Лекции/Фикх Месфер оджа/Омовение.md"
+            "file": "Лекции/Нуман Али Хан/Народ Мусы, мир ему, в осаде.md"
           }
         }
       }
@@ -123,7 +123,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -134,6 +133,7 @@
   },
   "active": "f61fb5ec3e663af9",
   "lastOpenFiles": [
+    "Лекции/Фикх Месфер оджа/Омовение.md",
     "ИСЛАМСКИЕ ТЕРМИНЫ.md",
     "Лекции/Медресе/История Ислама в Крыму/1 Урок. Введение в предмет. Крым до Ислама..md"
   ]
